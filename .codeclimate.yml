@@ -3,4 +3,4 @@ languages:
   Ruby: true
   # JavaScript: true
 # exclude_paths:
-# - "foo/bar.rb"
+- "app/models/micropost.rb"
