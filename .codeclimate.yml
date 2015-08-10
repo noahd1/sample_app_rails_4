@@ -4,3 +4,4 @@ languages:
   # JavaScript: true
 exclude_paths:
 - "app/models/micropost.rb"
+- "sample_app_rails_4/app/assets/javascripts/*js"
