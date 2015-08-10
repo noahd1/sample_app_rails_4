@@ -1,7 +1,7 @@
 # Save as .codeclimate.yml (note leading .) in project root directory
 languages:
   Ruby: true
-  # JavaScript: true
+  JavaScript: true
 exclude_paths:
 - "app/models/micropost.rb"
-- "sample_app_rails_4/app/assets/javascripts/*js"
+- "sample_app_rails_4/app/assets/javascripts/**.js"
