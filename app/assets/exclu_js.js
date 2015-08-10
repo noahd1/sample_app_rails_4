@@ -1,1 +1,1 @@
-test js file exclusions
+// test js file exclusions
