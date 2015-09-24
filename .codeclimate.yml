@@ -7,3 +7,4 @@ exclude_paths:
 # - "sample_app_rails_4/app/assets/javascripts/*js"
 - "app/assets/**.js"
 - public/*
+- "cookbook/*"
