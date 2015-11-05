@@ -24,7 +24,9 @@ group :test do
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara', '2.1.0'
   gem 'factory_girl_rails', '4.2.0'
+  # rubocop:disable Rubocop/Style/HashSyntax
   gem 'cucumber-rails', '1.3.0', :require => false
+  # rubocop:enable Rubocop/Style/HashSyntax
   gem 'database_cleaner', github: 'bmabey/database_cleaner'
 
   # Uncomment this line on OS X.
