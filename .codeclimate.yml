@@ -8,11 +8,11 @@ engines:
   eslint:
     enabled: false
   fixme:
-    enabled: false
+    enabled: true
   rubocop:
     enabled: false
   brakeman:
-    enabled: true
+    enabled: false
     exclude_fingerprints:
     - 0a616a63f4f81f91e6cd422960070286
 ratings:
